@@ -1,2 +1,1 @@
-# random-profile
-Random Profile Generator
+# Random Profile Generator
