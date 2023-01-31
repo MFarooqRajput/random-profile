@@ -1,2 +1,3 @@
-# random-profile
-Random profile generator in Vue.js
+# Random Profile Generator
+
+Vue.js application to generate random profile
